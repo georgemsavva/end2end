@@ -1,0 +1,12 @@
+name: end2end
+title: end2end
+username:
+account: georgemsavva
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3438302
+bundleId: 4050208
+url: https://georgemsavva.shinyapps.io/end2end/
+when: 1609581936.20218
+asMultiple: FALSE
+asStatic: FALSE
